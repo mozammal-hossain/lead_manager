@@ -47,3 +47,7 @@ app.*.map.json
 # Documentation files
 BRD-v*.md
 PRD-v*.md
+
+# Environment variables
+env
+.env.prod
